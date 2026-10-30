@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 17
+VisualStudioVersion = 17.14.37628.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App4", "App4\App4.csproj", "{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Debug|ARM.ActiveCfg = Debug|ARM
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Debug|ARM.Build.0 = Debug|ARM
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Debug|ARM.Deploy.0 = Debug|ARM
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Debug|ARM64.Build.0 = Debug|ARM64
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Debug|x64.ActiveCfg = Debug|x64
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Debug|x64.Build.0 = Debug|x64
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Debug|x64.Deploy.0 = Debug|x64
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Debug|x86.ActiveCfg = Debug|x86
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Debug|x86.Build.0 = Debug|x86
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Debug|x86.Deploy.0 = Debug|x86
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Release|ARM.ActiveCfg = Release|ARM
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Release|ARM.Build.0 = Release|ARM
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Release|ARM.Deploy.0 = Release|ARM
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Release|ARM64.ActiveCfg = Release|ARM64
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Release|ARM64.Build.0 = Release|ARM64
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Release|ARM64.Deploy.0 = Release|ARM64
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Release|x64.ActiveCfg = Release|x64
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Release|x64.Build.0 = Release|x64
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Release|x64.Deploy.0 = Release|x64
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Release|x86.ActiveCfg = Release|x86
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Release|x86.Build.0 = Release|x86
+		{E0E2F9EB-E338-490E-A7AB-81749DF5A34D}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5EFBB05-5B03-4358-9916-D0FC2A8064F7}
+	EndGlobalSection
+EndGlobal
